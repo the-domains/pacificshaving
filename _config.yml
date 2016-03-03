@@ -1,0 +1,28 @@
+name: PacificShaving
+favicon: null
+layout_spectrum: 0.4019456182140857
+typography_spectrum: 0.5392692389432341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.025843861047178507
+  lightness: 0.19915433879941702
+  saturation: 0.9373156006913632
+  rhythmicContrast: 0.368312431499362
+purpose: []
